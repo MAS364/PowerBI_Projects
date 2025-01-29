@@ -47,8 +47,5 @@ The dataset includes:
 ## How to Use This Repository
 - The analysis is presented in **PDF format**.
 - Data visualizations are useful for understanding patterns.
-- The dataset can be further refined for advanced analytics.
 
-### Author
-**UPI Transaction Analysis Team**
 
